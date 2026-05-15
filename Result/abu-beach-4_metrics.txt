@@ -1,0 +1,3 @@
+Dataset: abu-beach-4
+AUC PD_PF_auc: 0.98503
+AUC PF_tau_auc: 0.06376
