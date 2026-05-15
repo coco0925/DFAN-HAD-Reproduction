@@ -36,7 +36,7 @@ The directory should be like this:
    |-- abu-urban-1.mat
    
 ````
-### Training and tesing of the DFAN
+## Training and tesing of the DFAN
 
 running main.py
 
