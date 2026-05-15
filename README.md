@@ -41,6 +41,7 @@ The directory should be like this:
 running main.py
 
 
+```bibtex
 @ARTICLE{10535312,
   author={Cheng, Xi and Huo, Yu and Lin, Sheng and Dong, Youqiang and Zhao, Shaobo and Zhang, Min and Wang, Hai},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
@@ -53,3 +54,4 @@ running main.py
   doi={10.1109/TIM.2024.3403211}}
 
 }
+```
