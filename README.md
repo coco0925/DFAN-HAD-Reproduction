@@ -39,3 +39,17 @@ The directory should be like this:
 ### Training and tesing of the DFAN
 
 running main.py
+
+
+@ARTICLE{10535312,
+  author={Cheng, Xi and Huo, Yu and Lin, Sheng and Dong, Youqiang and Zhao, Shaobo and Zhang, Min and Wang, Hai},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Deep Feature Aggregation Network for Hyperspectral Anomaly Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Hyperspectral imaging;Image reconstruction;Deep learning;Adaptation models;Task analysis;Dictionaries;Detectors;Hyperspectral anomaly detection;autoencoder;feature aggregation;joint loss function},
+  doi={10.1109/TIM.2024.3403211}}
+
+}
